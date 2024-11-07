@@ -12,5 +12,5 @@
     // Input :
     const myProfile = { name: "Alice", age: 25, email: "alice@example.com" };
     
-    console.log(updateProfile(myProfile, { age: 30 }));  // Output:{name: "Alice", age: 30, email: "alice@example.com"}
+    updateProfile(myProfile, { age: 30 });  // Output:{name: "Alice", age: 30, email: "alice@example.com"}
 }
