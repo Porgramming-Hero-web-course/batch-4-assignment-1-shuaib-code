@@ -6,8 +6,8 @@
     }
     
     // Sample Input:
-    const sample = countWordOccurrences("TypeScript is great. I love TypeScript!", "typescript");
+    const sample = countWordOccurrences("I love typescript", "typescript");
 
-    console.log(sample);   // Output: 2
+    console.log(sample);   // Output: 1
     
 }
