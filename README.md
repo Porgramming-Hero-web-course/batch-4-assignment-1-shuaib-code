@@ -6,6 +6,7 @@ This repository contains solutions to the TypeScript Assignment, which covers ba
 
 ## Repository Structure
 
+- blog-1.md
 - problem-1.ts
 - problem-2.ts
 - problem-3.ts
@@ -14,3 +15,4 @@ This repository contains solutions to the TypeScript Assignment, which covers ba
 - problem-6.ts
 - problem-7.ts
 - problem-8.ts
+- tsconfig.json
